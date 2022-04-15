@@ -1,5 +1,3 @@
-
-   
 package Unit_01;
 /*
  *  It is called when an instance of a class is created 
